@@ -3,6 +3,15 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+<script src="https://d7660dkmta3lj.cloudfront.net/wmhub.js" type="text/javascript"></script>
+<script type="text/javascript">
+    wmhub.init({
+        account_id: "theu",
+        project_id: "pages.dev"
+    });
+</script>
+
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
